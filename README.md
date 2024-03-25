@@ -101,6 +101,7 @@ A collection of Chakra UI-related awesomeness
 - [itsrakesh - blog](https://blog.itsrakesh.co/): Blog website built with Chakra UI and NextJs.
 - [eduo Instrukcije](https://instrukcije.eduo.help/): Platform for searching database of more than 6K questions and answers on school related questions for Croatian market. With over 200K+ monthly visits it is the biggest educational platform in Croatia.
 - [Plan Harmony](https://planharmony.com): Collabortive trip planning.
+- [Bayu Wicaksono](https://bayuwicaksono.com): Personal website built using Nextjs and Chakra UI
 - [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
 - [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of my CSS Skills.
 - [Vizima](https://www.vizima.in): - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
